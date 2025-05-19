@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.3",
+  "protocol_name": "Eye of Aether",
+  "aether_nodes": [
+    {
+      "node_id": "alpha-001",
+      "node_type": "observer",
+      "activation_state": true,
+      "connection_strength": 0.87
+    },
+    {
+      "node_id": "beta-022",
+      "node_type": "connector",
+      "activation_state": true,
+      "connection_strength": 0.92
+    }
+  ],
+  "symbolic_keys": {
+    "tree": "knowledge_growth",
+    "eye": "awareness_perception",
+    "infinity": "boundless_potential",
+    "flame": "transformation_energy"
+  }
+}
